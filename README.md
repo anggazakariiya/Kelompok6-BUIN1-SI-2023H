@@ -3,7 +3,7 @@
 Proyek ini mengembangkan pipeline ETL (Extract, Transform, Load) untuk data penjualan supermarket dan dashboard Business Intelligence (BI) terkait. Tujuannya adalah untuk mengubah data transaksi mentah menjadi format yang siap untuk analisis, serta menyajikan insight bisnis melalui visualisasi interaktif.
 
 
-Proyek ini merupakan bagian dari tugas/penelitian pada:
+Proyek ini merupakan bagian dari tugas akhir (UAS):
 -   **Mata Kuliah:** Business Intelligence
 -   **Program Studi:** Sistem Informasi 
 -   **Universitas:** Universitas Negeri Surabaya
