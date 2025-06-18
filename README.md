@@ -34,4 +34,11 @@ Proyek ini menggunakan data penjualan supermarket yang tersedia dalam format CSV
 
 -   **`etl_pipeline/supermarket_sales.csv`**: Ini adalah file data mentah yang digunakan sebagai sumber data untuk proses ETL. File ini berisi catatan transaksi penjualan individual dari sebuah supermarket, dengan berbagai kolom seperti tanggal, jenis produk, cabang, tipe pelanggan, metode pembayaran, kuantitas, total, dan rating.
 
+
+Anggota Kelompok:
+1. Fahmi Hasan Firdaus         (23051214262) 
+2. Angga Zakariya              (23051214267)
+3. Muhammad Fahril Syahputra   (23051214279)
+4. Muchammad Abdulloh ‘Ubaid   (23051214283)
+
 ---
