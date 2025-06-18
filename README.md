@@ -3,14 +3,14 @@
 Proyek ini mengembangkan pipeline ETL (Extract, Transform, Load) untuk data penjualan supermarket dan dashboard Business Intelligence (BI) terkait. Tujuannya adalah untuk mengubah data transaksi mentah menjadi format yang siap untuk analisis, serta menyajikan insight bisnis melalui visualisasi interaktif.
 
 
-Proyek ini merupakan bagian dari tugas akhir (UAS):
+# Proyek ini merupakan bagian dari tugas akhir (UAS):
 -   **Mata Kuliah:** Business Intelligence
 -   **Program Studi:** Sistem Informasi 
 -   **Universitas:** Universitas Negeri Surabaya
 -   **Dosen Pembimbing/Kolaborator:** Cendra Devayana Putra, S.Kom., M.IM.
 
 
-Repositori ini terdiri dari dua komponen utama:
+# Repositori ini terdiri dari dua komponen utama:
 
 -   `etl_pipeline/`: Berisi kode untuk proses ETL data.
 -   `bi_dashboard/`: Berisi file-file untuk visualisasi dan dashboard BI.
@@ -30,12 +30,13 @@ Tugas utama proyek ini adalah membangun sebuah sistem data warehouse sederhana y
 Tujuan utama dari proyek ini adalah untuk **memahami dan mengimplementasikan konsep data warehouse dan dimensional modeling** (khususnya Star Schema) serta **membangun pipeline ETL fungsional** yang dapat digunakan untuk analisis bisnis.
 
 
-Proyek ini menggunakan data penjualan supermarket yang tersedia dalam format CSV.
+# Proyek ini menggunakan data penjualan supermarket yang tersedia dalam format CSV.
 
 -   **`etl_pipeline/supermarket_sales.csv`**: Ini adalah file data mentah yang digunakan sebagai sumber data untuk proses ETL. File ini berisi catatan transaksi penjualan individual dari sebuah supermarket, dengan berbagai kolom seperti tanggal, jenis produk, cabang, tipe pelanggan, metode pembayaran, kuantitas, total, dan rating.
 
 
-Anggota Kelompok:
+
+# **Anggota Kelompok**:
 1. Fahmi Hasan Firdaus         (23051214262) 
 2. Angga Zakariya              (23051214267)
 3. Muhammad Fahril Syahputra   (23051214279)
