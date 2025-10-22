@@ -1,4 +1,4 @@
-# Kelompok6-BUIN1-SI-2023H: Supermarket Sales Data
+# Supermarket Sales Data Dashboard Monitoring
 
 Proyek ini mengembangkan pipeline ETL (Extract, Transform, Load) untuk data penjualan supermarket dan dashboard Business Intelligence (BI) terkait. Tujuannya adalah untuk mengubah data transaksi mentah menjadi format yang siap untuk analisis, serta menyajikan insight bisnis melalui visualisasi interaktif.
 
